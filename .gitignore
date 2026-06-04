@@ -1,0 +1,9 @@
+# Source resume — contains a phone number; must NOT be published to the public repo.
+RobM_Resume-March2024.docx
+
+# macOS cruft
+.DS_Store
+**/.DS_Store
+
+# Local preview / build helpers we don't need to publish
+.claude/
